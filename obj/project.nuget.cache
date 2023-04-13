@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0I3vu2Np5reSV0KymR2UjDvovv7UJZkT+YYWxqWZ5RPS65NOsqvCNXvO7OHRtR3x/JNDEaqg/7V7f4x4lrzwSA==",
+  "success": true,
+  "projectFilePath": "C:\\Fastenal_Training\\DockerApplication\\DockerApplication\\DockerApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anrana\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
